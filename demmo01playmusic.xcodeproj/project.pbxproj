@@ -14,6 +14,22 @@
 		9DF4130E1CBE451F00235DDA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4130C1CBE451F00235DDA /* LaunchScreen.storyboard */; };
 		9DF413191CBE451F00235DDA /* demmo01playmusicTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DF413181CBE451F00235DDA /* demmo01playmusicTests.swift */; };
 		9DF413241CBE451F00235DDA /* demmo01playmusicUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DF413231CBE451F00235DDA /* demmo01playmusicUITests.swift */; };
+		9DF413321CBE47FB00235DDA /* H.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DF413311CBE47FB00235DDA /* H.png */; };
+		9DF413341CBE480700235DDA /* pause.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DF413331CBE480700235DDA /* pause.png */; };
+		9DF413361CBE481F00235DDA /* Play.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DF413351CBE481F00235DDA /* Play.png */; };
+		9DF4133C1CBE4BFC00235DDA /* ala.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9DF413371CBE4BFC00235DDA /* ala.jpg */; };
+		9DF4133D1CBE4BFC00235DDA /* b copy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9DF413381CBE4BFC00235DDA /* b copy.jpg */; };
+		9DF4133E1CBE4BFC00235DDA /* c.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9DF413391CBE4BFC00235DDA /* c.jpg */; };
+		9DF4133F1CBE4BFC00235DDA /* d.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4133A1CBE4BFC00235DDA /* d.jpg */; };
+		9DF413401CBE4BFC00235DDA /* o.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4133B1CBE4BFC00235DDA /* o.jpg */; };
+		9DF413471CBE4E5D00235DDA /* fade.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9DF413411CBE4E5D00235DDA /* fade.mp3 */; };
+		9DF413481CBE4E5D00235DDA /* counting stars.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9DF413421CBE4E5D00235DDA /* counting stars.mp3 */; };
+		9DF413491CBE4E5D00235DDA /* angel of the morning.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9DF413431CBE4E5D00235DDA /* angel of the morning.mp3 */; };
+		9DF4134A1CBE4E5D00235DDA /* i live.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9DF413441CBE4E5D00235DDA /* i live.mp3 */; };
+		9DF4134B1CBE4E5D00235DDA /* Clean Bandit .mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9DF413451CBE4E5D00235DDA /* Clean Bandit .mp3 */; };
+		9DF4134C1CBE4E5D00235DDA /* bom clap.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9DF413461CBE4E5D00235DDA /* bom clap.mp3 */; };
+		9DF4134E1CBE556F00235DDA /* l.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4134D1CBE556F00235DDA /* l.jpg */; };
+		9DF413501CBEAB5D00235DDA /* 12994391_998858656894966_6765224450324346630_n.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4134F1CBEAB5D00235DDA /* 12994391_998858656894966_6765224450324346630_n.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +63,22 @@
 		9DF4131F1CBE451F00235DDA /* demmo01playmusicUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = demmo01playmusicUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9DF413231CBE451F00235DDA /* demmo01playmusicUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = demmo01playmusicUITests.swift; sourceTree = "<group>"; };
 		9DF413251CBE451F00235DDA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9DF413311CBE47FB00235DDA /* H.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = H.png; sourceTree = "<group>"; };
+		9DF413331CBE480700235DDA /* pause.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pause.png; sourceTree = "<group>"; };
+		9DF413351CBE481F00235DDA /* Play.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Play.png; sourceTree = "<group>"; };
+		9DF413371CBE4BFC00235DDA /* ala.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ala.jpg; sourceTree = "<group>"; };
+		9DF413381CBE4BFC00235DDA /* b copy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "b copy.jpg"; sourceTree = "<group>"; };
+		9DF413391CBE4BFC00235DDA /* c.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = c.jpg; sourceTree = "<group>"; };
+		9DF4133A1CBE4BFC00235DDA /* d.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = d.jpg; sourceTree = "<group>"; };
+		9DF4133B1CBE4BFC00235DDA /* o.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = o.jpg; sourceTree = "<group>"; };
+		9DF413411CBE4E5D00235DDA /* fade.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = fade.mp3; sourceTree = "<group>"; };
+		9DF413421CBE4E5D00235DDA /* counting stars.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "counting stars.mp3"; sourceTree = "<group>"; };
+		9DF413431CBE4E5D00235DDA /* angel of the morning.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "angel of the morning.mp3"; sourceTree = "<group>"; };
+		9DF413441CBE4E5D00235DDA /* i live.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "i live.mp3"; sourceTree = "<group>"; };
+		9DF413451CBE4E5D00235DDA /* Clean Bandit .mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Clean Bandit .mp3"; sourceTree = "<group>"; };
+		9DF413461CBE4E5D00235DDA /* bom clap.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "bom clap.mp3"; sourceTree = "<group>"; };
+		9DF4134D1CBE556F00235DDA /* l.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = l.jpg; sourceTree = "<group>"; };
+		9DF4134F1CBEAB5D00235DDA /* 12994391_998858656894966_6765224450324346630_n.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 12994391_998858656894966_6765224450324346630_n.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +134,22 @@
 				9DF413071CBE451F00235DDA /* Main.storyboard */,
 				9DF4130A1CBE451F00235DDA /* Assets.xcassets */,
 				9DF4130C1CBE451F00235DDA /* LaunchScreen.storyboard */,
+				9DF413311CBE47FB00235DDA /* H.png */,
+				9DF413331CBE480700235DDA /* pause.png */,
+				9DF4134F1CBEAB5D00235DDA /* 12994391_998858656894966_6765224450324346630_n.jpg */,
+				9DF413351CBE481F00235DDA /* Play.png */,
+				9DF413371CBE4BFC00235DDA /* ala.jpg */,
+				9DF413381CBE4BFC00235DDA /* b copy.jpg */,
+				9DF413391CBE4BFC00235DDA /* c.jpg */,
+				9DF4133A1CBE4BFC00235DDA /* d.jpg */,
+				9DF4133B1CBE4BFC00235DDA /* o.jpg */,
+				9DF4134D1CBE556F00235DDA /* l.jpg */,
+				9DF413411CBE4E5D00235DDA /* fade.mp3 */,
+				9DF413421CBE4E5D00235DDA /* counting stars.mp3 */,
+				9DF413431CBE4E5D00235DDA /* angel of the morning.mp3 */,
+				9DF413441CBE4E5D00235DDA /* i live.mp3 */,
+				9DF413451CBE4E5D00235DDA /* Clean Bandit .mp3 */,
+				9DF413461CBE4E5D00235DDA /* bom clap.mp3 */,
 				9DF4130F1CBE451F00235DDA /* Info.plist */,
 			);
 			path = demmo01playmusic;
@@ -193,13 +241,16 @@
 				TargetAttributes = {
 					9DF412FF1CBE451E00235DDA = {
 						CreatedOnToolsVersion = 7.3;
+						LastSwiftMigration = 0820;
 					};
 					9DF413131CBE451F00235DDA = {
 						CreatedOnToolsVersion = 7.3;
+						LastSwiftMigration = 0820;
 						TestTargetID = 9DF412FF1CBE451E00235DDA;
 					};
 					9DF4131E1CBE451F00235DDA = {
 						CreatedOnToolsVersion = 7.3;
+						LastSwiftMigration = 0820;
 						TestTargetID = 9DF412FF1CBE451E00235DDA;
 					};
 				};
@@ -229,9 +280,25 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9DF4134E1CBE556F00235DDA /* l.jpg in Resources */,
+				9DF413401CBE4BFC00235DDA /* o.jpg in Resources */,
+				9DF4134A1CBE4E5D00235DDA /* i live.mp3 in Resources */,
+				9DF4133E1CBE4BFC00235DDA /* c.jpg in Resources */,
+				9DF413471CBE4E5D00235DDA /* fade.mp3 in Resources */,
+				9DF4134B1CBE4E5D00235DDA /* Clean Bandit .mp3 in Resources */,
+				9DF413321CBE47FB00235DDA /* H.png in Resources */,
+				9DF4133F1CBE4BFC00235DDA /* d.jpg in Resources */,
 				9DF4130E1CBE451F00235DDA /* LaunchScreen.storyboard in Resources */,
+				9DF413341CBE480700235DDA /* pause.png in Resources */,
+				9DF413491CBE4E5D00235DDA /* angel of the morning.mp3 in Resources */,
+				9DF413361CBE481F00235DDA /* Play.png in Resources */,
 				9DF4130B1CBE451F00235DDA /* Assets.xcassets in Resources */,
+				9DF4133C1CBE4BFC00235DDA /* ala.jpg in Resources */,
+				9DF4133D1CBE4BFC00235DDA /* b copy.jpg in Resources */,
+				9DF413481CBE4E5D00235DDA /* counting stars.mp3 in Resources */,
+				9DF413501CBEAB5D00235DDA /* 12994391_998858656894966_6765224450324346630_n.jpg in Resources */,
 				9DF413091CBE451F00235DDA /* Main.storyboard in Resources */,
+				9DF4134C1CBE4E5D00235DDA /* bom clap.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -405,6 +472,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Kienpham.demmo01playmusic;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -416,6 +484,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Kienpham.demmo01playmusic;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
@@ -427,6 +496,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Kienpham.demmo01playmusicTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/demmo01playmusic.app/demmo01playmusic";
 			};
 			name = Debug;
@@ -439,6 +509,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Kienpham.demmo01playmusicTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/demmo01playmusic.app/demmo01playmusic";
 			};
 			name = Release;
@@ -450,6 +521,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Kienpham.demmo01playmusicUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_TARGET_NAME = demmo01playmusic;
 			};
 			name = Debug;
@@ -461,6 +533,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Kienpham.demmo01playmusicUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_TARGET_NAME = demmo01playmusic;
 			};
 			name = Release;
@@ -484,6 +557,7 @@
 				9DF4132A1CBE451F00235DDA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9DF4132B1CBE451F00235DDA /* Build configuration list for PBXNativeTarget "demmo01playmusicTests" */ = {
 			isa = XCConfigurationList;
@@ -492,6 +566,7 @@
 				9DF4132D1CBE451F00235DDA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9DF4132E1CBE451F00235DDA /* Build configuration list for PBXNativeTarget "demmo01playmusicUITests" */ = {
 			isa = XCConfigurationList;
@@ -500,6 +575,7 @@
 				9DF413301CBE451F00235DDA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
